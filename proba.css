@@ -1,0 +1,32 @@
+h1 {
+    padding: 70px 0px 15px 0px;
+    text-align: center;
+}
+
+.project-name {
+    font-size: 20;
+    margin: 50px 0px 10px 185px;
+}
+
+.prvi-text {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 15;
+}
+
+.btn {
+    padding: 13px;
+}
+
+.siva {
+    background-color: rgb(235, 234, 229);
+}
+
+.dugme {
+    margin-bottom: 100px;
+}
+
+#kraj {
+    padding: 70px 0 0 0;
+}
