@@ -78,6 +78,11 @@ p {
     margin-left: 700% !important;
 }
 
-.lista {
-    margin: 0 15px 0 15px !important;
+.header {
+    padding: 10px;
+    border: 1px solid rgba(26, 25, 25, 0.1)
+}
+
+.container {
+    padding-left: 30px;
 }
